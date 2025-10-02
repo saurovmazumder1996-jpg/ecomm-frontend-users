@@ -46,6 +46,12 @@ function Categories() {
   };
   return (
     <div className="w-[87%] mx-auto relative">
+      <div className="w-full">
+        <div className="text-center flex justify-center items-center flex-col text-2xl text-slate-600 foint-bold relative pb-[35px]">
+          <h2>Top Categories</h2>
+          <div className="w-[100px] h-[2px] bg-[#059473] mt-4"></div>
+        </div>
+      </div>
       <Carousel
         autoPlay={true}
         infinite={true}

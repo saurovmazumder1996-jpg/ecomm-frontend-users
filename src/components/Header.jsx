@@ -177,7 +177,7 @@ const Header = () => {
                           : "text-slate-600"
                       } `}
                     >
-                      Shop
+                      Shop-1
                     </Link>
                   </li>
                   <li>
